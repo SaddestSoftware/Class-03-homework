@@ -1,0 +1,65 @@
+* {
+    color: rgb(92, 92, 92);
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rgb(130, 217, 247);
+}
+
+section {
+    padding: 5px;
+    margin-left: 35%;
+    border: 3px solid rgb(4, 202, 4);
+    width: 30%
+}
+
+section {
+    height: 70%;
+    position: absolute;
+}
+
+
+a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+}
+
+img {
+    width: 170px;
+    height: 235px;
+    float: right;
+}
+
+.Portfolio {
+    color: rgb(4, 202, 4);
+}
+
+section > h2 {
+    font-weight: 700;
+    padding-left: 35px;
+    color: white;
+    font-size: 30px;
+}
+
+p {
+    padding-left: 35px;
+    color: white;
+    font-size: 15px;
+}
+
+h1 {
+    color: white;
+    font-size: 35px;
+}
+
+div > #Media {
+    color: rgb(4, 202, 4);
+}
+
+div {
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
